@@ -1,4 +1,6 @@
-![Logo](https://raw.githubusercontent.com/lucasbazan/SentinelOnion/refs/heads/main/assets/SentinelOnionLogo.PNG)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lucasbazan/SentinelOnion/refs/heads/main/assets/SentinelOnionLogo.png" alt="SentinelOnion Logo" width="400"/>
+</p>
 
 **SentinelOnion** is a modular framework for **discovery, crawling, and analysis of Deep/Dark Web content**, with multi-network support and native integration with **YARA**, **Regex**, and **keyword-based search**.
 
