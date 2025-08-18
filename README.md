@@ -4,6 +4,8 @@
 
 **SentinelOnion** is a modular framework for **discovery, crawling, and analysis of Deep/Dark Web content**, with multi-network support and native integration with **YARA**, **Regex**, and **keyword-based search**.
 
+[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=lucasbazan_SentinelOnion)](https://sonarcloud.io/summary/new_code?id=lucasbazan_SentinelOnion)
+
 ---
 
 ## 🌌 Supported Networks
