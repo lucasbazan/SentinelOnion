@@ -4,7 +4,20 @@
 
 **SentinelOnion** is a modular framework for **discovery, crawling, and analysis of Deep/Dark Web content**, with multi-network support and native integration with **YARA**, **Regex**, and **keyword-based search**.
 
-[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=lucasbazan_SentinelOnion)](https://sonarcloud.io/summary/new_code?id=lucasbazan_SentinelOnion)
+<p align="center">
+  <a href="https://sonarcloud.io/summary/new_code?id=lucasbazan_SentinelOnion">
+    <img src="https://sonarcloud.io/api/project_badges/quality_gate?project=lucasbazan_SentinelOnion" alt="Quality gate"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/lucasbazan/SentinelOnion/actions/workflows/ggshield.yml">
+    <img src="https://github.com/lucasbazan/SentinelOnion/actions/workflows/ggshield.yml/badge.svg?branch=main" alt="GitGuardian"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/lucasbazan/SentinelOnion/actions/workflows/semgrep.yml">
+    <img src="https://github.com/lucasbazan/SentinelOnion/actions/workflows/semgrep.yml/badge.svg" alt="Semgrep (SAST)"/>
+  </a>
+</p>
+
 
 ---
 
