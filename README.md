@@ -21,6 +21,8 @@
 
 ---
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/872467edeb0a4afdb8d99b9da36aee1f)](https://app.codacy.com/gh/lucasbazan/SentinelOnion?utm_source=github.com&utm_medium=referral&utm_content=lucasbazan/SentinelOnion&utm_campaign=Badge_Grade)
+
 ## 🌌 Supported Networks
 
 - **Tor (.onion)**
