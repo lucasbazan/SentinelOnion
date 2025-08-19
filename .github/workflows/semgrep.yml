@@ -4,13 +4,10 @@ on:
   push:
     branches:
     - main
-    - master
+    - dev
     paths:
     - .github/workflows/semgrep.yml
-  schedule:
-  # random HH:MM to avoid a load spike on GitHub Actions at 00:00
-  - cron: 58 9 * * *
-name: Semgrep
+name: Semgrep (SAST)
 jobs:
   semgrep:
     name: semgrep/ci
