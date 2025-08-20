@@ -4,19 +4,32 @@
 
 **SentinelOnion** is a modular framework for **discovery, crawling, and analysis of Deep/Dark Web content**, with multi-network support and native integration with **YARA**, **Regex**, and **keyword-based search**.
 
+
 <p align="center">
-  <a href="https://sonarcloud.io/summary/new_code?id=lucasbazan_SentinelOnion">
-    <img src="https://sonarcloud.io/api/project_badges/quality_gate?project=lucasbazan_SentinelOnion" alt="Quality gate"/>
-  </a>
-  <a href="https://app.codacy.com/gh/lucasbazan/SentinelOnion/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade"><img src="https://app.codacy.com/project/badge/Grade/1cd6f1c1fe494a75adc443686353019e"/></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/lucasbazan/SentinelOnion/actions/workflows/ggshield.yml">
-    <img src="https://github.com/lucasbazan/SentinelOnion/actions/workflows/ggshield.yml/badge.svg?branch=main" alt="GitGuardian"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/lucasbazan/SentinelOnion/actions/workflows/semgrep.yml">
-    <img src="https://github.com/lucasbazan/SentinelOnion/actions/workflows/semgrep.yml/badge.svg" alt="Semgrep (SAST)"/>
-  </a>
+  <table>
+    <tr>
+      <td align="center" style="padding: 0 20px;">
+        <a href="https://sonarcloud.io/summary/new_code?id=lucasbazan_SentinelOnion">
+          <img src="https://sonarcloud.io/api/project_badges/quality_gate?project=lucasbazan_SentinelOnion" alt="Quality gate"/>
+        </a>
+      </td>
+      <td align="center" style="padding: 0 20px;">
+        <a href="https://app.codacy.com/gh/lucasbazan/SentinelOnion/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade">
+          <img src="https://app.codacy.com/project/badge/Grade/1cd6f1c1fe494a75adc443686353019e" alt="Codacy"/>
+        </a>
+      </td>
+      <td align="center" style="padding: 0 20px;">
+        <a href="https://github.com/lucasbazan/SentinelOnion/actions/workflows/ggshield.yml">
+          <img src="https://github.com/lucasbazan/SentinelOnion/actions/workflows/ggshield.yml/badge.svg?branch=main" alt="GitGuardian"/>
+        </a>
+      </td>
+      <td align="center" style="padding: 0 20px;">
+        <a href="https://github.com/lucasbazan/SentinelOnion/actions/workflows/semgrep.yml">
+          <img src="https://github.com/lucasbazan/SentinelOnion/actions/workflows/semgrep.yml/badge.svg" alt="Semgrep (SAST)"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 </p>
 
 
