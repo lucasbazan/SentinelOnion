@@ -2,7 +2,7 @@
 FROM alpine:3.22
 
 # Update the package index / Install Tor, curl and openrc without caching package index
-RUN apk update && apk add --no-cache tor curl openrc \
+RUN apk update && apk add --no-cache curl openrc tor \
     && rc-update add tor
 
 # Expose Tor's default SOCKS port
